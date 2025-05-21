@@ -1,4 +1,5 @@
 MediaFire Downloader (PyQt5)
+
 A simple and elegant desktop application for downloading multiple files from MediaFire in bulk. Built with Python, PyQt5, Selenium, and Requests.
 
 Features
