@@ -24,7 +24,7 @@ Requirements:
 
 Pyinstaller:
 
-    pyinstaller --onefile --windowed --add-data "chromium-1169;chromium-1169" --icon=app_icon.ico mediafire.py
+    pyinstaller --onefile --windowed --icon=mf.ico mediafire.py
 
 
 Download the Binary here:
