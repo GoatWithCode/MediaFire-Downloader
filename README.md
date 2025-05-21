@@ -30,4 +30,4 @@ Pyinstaller:
 
 Download the Binary here:
 
-<img src="https://github.com/GoatWithCode/MediaFire-Downloader/blob/main/Screenshot%202025-05-21%20194056.png" alt="MediaFire-downloader" width="800" height="400">
+<img src="https://github.com/GoatWithCode/MediaFire-Downloader/blob/main/Screenshot%202025-05-21%20194056.png" alt="MediaFire-downloader" width="500" height="400">
