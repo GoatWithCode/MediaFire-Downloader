@@ -27,6 +27,6 @@ Pyinstaller:
     pyinstaller --onefile --windowed --icon=mf.ico mediafire.py
 
 
-Download the Binary here:
+Download the Binary here: https://c.gmx.net/@329938113155568689/inIX-WF8EnZJhj2bIVeJiA
 
 <img src="https://github.com/GoatWithCode/MediaFire-Downloader/blob/main/Screenshot%202025-05-21%20194056.png" alt="MediaFire-downloader" width="500" height="400">
