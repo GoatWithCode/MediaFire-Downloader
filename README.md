@@ -15,15 +15,19 @@ Features
 
 
 Requirements:
-Python 3.8+
 
-Google Chrome browser (for Selenium)
+    youtube_downloader/
+    PyQt5
+    selenium
+    requests
+    webdriver-manager
 
-Required Python packages:
-PyQt5
-selenium
-requests
-webdriver-manager
 
 Pyinstaller:
-pyinstaller --onefile --windowed --add-data "chromium-1169;chromium-1169" --icon=app_icon.ico mediafire.py
+
+    pyinstaller --onefile --windowed --add-data "chromium-1169;chromium-1169" --icon=app_icon.ico mediafire.py
+
+
+Download the Binary here:
+
+<img src="https://github.com/GoatWithCode/MediaFire-Downloader/blob/main/Screenshot%202025-05-21%20194056.png" alt="MediaFire-downloader" width="800" height="400">
