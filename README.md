@@ -16,7 +16,6 @@ Features
 
 Requirements:
 
-    youtube_downloader/
     PyQt5
     selenium
     requests
